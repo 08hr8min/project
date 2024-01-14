@@ -1,0 +1,43 @@
+.MainNavBar{
+    text-align: right;
+    right: 20px;
+    position: absolute;
+}
+
+.NavBarPara{
+    color: white;
+    top:260px;
+    left: 510px;
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Move{
+    float: right;
+}
+
+.NavBarHeading{
+    /*color: white;*/
+    position: absolute;
+    top:320px;
+    left: 230px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.display-1{
+    font-size: calc(1.77rem + 1.50625 * ((80vw - 20rem) / 28));
+    line-height: calc(1. * (1.91rem + 1.70625 * ((100vw - 20rem) / 28)));
+}
+
+.mbr-section-subtitle{
+    color: white;
+    text-align: center;
+}
+
+.SocialIcons{
+    margin: 0 10px;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}

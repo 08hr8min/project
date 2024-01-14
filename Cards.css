@@ -1,0 +1,109 @@
+.CardMainDiv{
+    padding-top: 90px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 80px;
+}
+
+.CardPara1{
+    color: white;
+    position: absolute;
+    top: 375px;
+    left: 135px;
+}
+
+.CardPara2{
+    color: white;
+    position: absolute;
+    top: 375px;
+    right: 130px;
+}
+
+.CardPara3{
+    color: white;
+    position: absolute;
+    top: 375px;
+    left: 525px;
+}
+
+.CardHead1{
+    color: white;
+    position: absolute;
+    top: 345px;
+    left: 110px;
+    width: auto;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.CardHead2{
+    color: white;
+    position: absolute;
+    top: 345px;
+    right: 120px;
+    width: auto;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.CardHead3{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    top: 345px;
+    left: 505px;
+    position: absolute;
+}
+
+.CardButton1{
+    color: black;
+    border: none;
+    background-color: white;
+    width: 130px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 3175px;
+    left: 225px;
+}
+
+.CardButton1:hover{
+    color: white;
+    background-color: black;
+}
+
+.CardButton3{
+    color: black;
+    border: none;
+    background-color: white;
+    width: 130px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 3175px;
+    right: 215px;
+    
+}
+
+.CardButton2:hover{
+    color: white;
+    background-color: black;
+}
+
+.CardButton2{
+    color: black;
+    border: none;
+    background-color: white;
+    width: 130px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 3175px;
+    right: 605px;
+}
+
+.CardButton3:hover{
+    color: white;
+    background-color: black;
+}

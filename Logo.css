@@ -1,0 +1,13 @@
+.Logo{
+    width: 100%;
+    height: 600px;
+    border: 1px solid black;
+    position: relative;
+    background-image: url(../Images/Footer.jpg);
+}
+
+.MusicArtist{
+    position: absolute;
+    padding-top: 0px;
+    padding-left: 5px;
+}

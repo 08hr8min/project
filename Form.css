@@ -1,0 +1,33 @@
+.main-2{
+    text-align: center;
+}
+
+.BookForm{
+    position: relative;
+    right: 30px;
+    /*background-color: black;*/
+}
+
+.ActualForm{
+    /*position: absolute;*/
+    margin-left: 400px;
+    border: none;
+    width: 600px;
+    
+}
+
+.ButtonofForm{
+    color: white;
+    
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    left: 5px;
+    margin-left: 400px;
+    background-color: black;
+    border: none;
+}
+
+.ButtonofForm:hover{
+    background-color: rgb(172, 3, 3);
+}
